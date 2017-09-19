@@ -1,2 +1,1 @@
-# react-redux-todoList
-react-redux练习的一个todoList小DEMO
+这是一个react+redux的todoList的小demo。
