@@ -17,6 +17,8 @@ const listReducer = (state = [], action)=>{
           });
         });
       break;
+    default:
+      return state;
   }
 }
 export { listReducer }
